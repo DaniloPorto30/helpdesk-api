@@ -18,7 +18,7 @@ import com.danilo.Help_app.service.TecnicoService;
 
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://dreamy-jang-746cbf.netlify.app")
 @RequestMapping("/tec")
 public class TecnicoController {
 
