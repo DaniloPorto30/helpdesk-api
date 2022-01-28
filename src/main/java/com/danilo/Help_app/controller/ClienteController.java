@@ -18,7 +18,7 @@ import com.danilo.Help_app.service.ClienteService;
 
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://dreamy-jang-746cbf.netlify.app")
 @RequestMapping("/cli")
 public class ClienteController {
 
