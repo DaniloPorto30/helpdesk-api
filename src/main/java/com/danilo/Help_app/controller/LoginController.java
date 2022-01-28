@@ -20,7 +20,7 @@ import com.danilo.Help_app.service.LoginService;
 
 
 @RestController
-@CrossOrigin(origins = "https://dreamy-jang-746cbf.netlify.app")
+@CrossOrigin(origins = "https://helpdesk-app.netlify.app")
 @RequestMapping("/log")
 public class LoginController {
 
