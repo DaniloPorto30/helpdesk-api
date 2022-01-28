@@ -18,7 +18,7 @@ import com.danilo.Help_app.service.ChamadoService;
 
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://helpdesk-app.netlify.app")
 @RequestMapping("/cha")
 public class ChamadoController {
 
